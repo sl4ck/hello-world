@@ -1,0 +1,19 @@
+
+Starting Nmap 5.51 ( http://nmap.org ) at 2011-10-31 22:32 CET
+Nmap scan report for 172.30.20.1
+Host is up (0.0019s latency).
+Nmap scan report for 172.30.20.4
+Host is up (0.0012s latency).
+Nmap scan report for 172.30.20.10
+Host is up (0.0011s latency).
+Nmap scan report for 172.30.20.11
+Host is up (0.0011s latency).
+Nmap scan report for 172.30.20.12
+Host is up (0.00083s latency).
+Nmap scan report for 172.30.20.32
+Host is up (0.0018s latency).
+Nmap scan report for 172.30.20.39
+Host is up (0.00012s latency).
+Nmap scan report for 172.30.20.202
+Host is up (0.0013s latency).
+Nmap done: 254 IP addresses (8 hosts up) scanned in 2.75 seconds
